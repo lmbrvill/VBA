@@ -1,0 +1,388 @@
+%!Adobe-FontList 1.25
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tempfix\Desktop\Alcohol Diversity\Alcohol Diversity Study\AlcoholDiversity\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1779297403
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-Black
+FamilyName:Proxima Nova
+StyleName:Black
+FullName:Proxima Nova Black
+MenuName:Proxima Nova Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tempfix\Desktop\Alcohol Diversity\Alcohol Diversity Study\AlcoholDiversity\Document fonts\ProximaNova-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:147324
+FileModTime:1779297403
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Proxima Nova Black
+NameArray:0,Win,16,Proxima Nova
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-Bold
+FamilyName:Proxima Nova
+StyleName:Bold
+FullName:Proxima Nova Bold
+MenuName:Proxima Nova
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\tempfix\Desktop\Alcohol Diversity\Alcohol Diversity Study\AlcoholDiversity\Document fonts\ProximaNova.ttc
+TTCOffset:576
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1603796
+FileModTime:1779297403
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Proxima Nova Bold
+NameArray:0,Win,1,Proxima Nova
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-BoldIt
+FamilyName:Proxima Nova
+StyleName:Bold Italic
+FullName:Proxima Nova Bold It
+MenuName:Proxima Nova
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\tempfix\Desktop\Alcohol Diversity\Alcohol Diversity Study\AlcoholDiversity\Document fonts\ProximaNova.ttc
+TTCOffset:828
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1603796
+FileModTime:1779297403
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Proxima Nova Bold It
+NameArray:0,Win,1,Proxima Nova
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-Extrabld
+FamilyName:Proxima Nova
+StyleName:Extrabold
+FullName:Proxima Nova Extrabold
+MenuName:Proxima Nova Extrabold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tempfix\Desktop\Alcohol Diversity\Alcohol Diversity Study\AlcoholDiversity\Document fonts\ProximaNova.ttc
+TTCOffset:1080
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1603796
+FileModTime:1779297403
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Proxima Nova Extrabold
+NameArray:0,Win,1,Proxima Nova Extrabold
+NameArray:0,Win,16,Proxima Nova
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-ExtrabldIt
+FamilyName:Proxima Nova
+StyleName:Extrabold Italic
+FullName:Proxima Nova Extrabold It
+MenuName:Proxima Nova Extrabold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\tempfix\Desktop\Alcohol Diversity\Alcohol Diversity Study\AlcoholDiversity\Document fonts\ProximaNova.ttc
+TTCOffset:1332
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1603796
+FileModTime:1779297403
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Proxima Nova Extrabold It
+NameArray:0,Win,1,Proxima Nova Extrabold
+NameArray:0,Win,16,Proxima Nova
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-Light
+FamilyName:Proxima Nova
+StyleName:Light
+FullName:Proxima Nova Light
+MenuName:Proxima Nova Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tempfix\Desktop\Alcohol Diversity\Alcohol Diversity Study\AlcoholDiversity\Document fonts\ProximaNova.ttc
+TTCOffset:2088
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1603796
+FileModTime:1779297403
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Proxima Nova Light
+NameArray:0,Win,1,Proxima Nova Light
+NameArray:0,Win,16,Proxima Nova
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-LightIt
+FamilyName:Proxima Nova
+StyleName:Light Italic
+FullName:Proxima Nova Light It
+MenuName:Proxima Nova Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\tempfix\Desktop\Alcohol Diversity\Alcohol Diversity Study\AlcoholDiversity\Document fonts\ProximaNova.ttc
+TTCOffset:2340
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1603796
+FileModTime:1779297403
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Proxima Nova Light It
+NameArray:0,Win,1,Proxima Nova Light
+NameArray:0,Win,16,Proxima Nova
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-Medium
+FamilyName:Proxima Nova
+StyleName:Medium
+FullName:Proxima Nova Medium
+MenuName:Proxima Nova Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tempfix\Desktop\Alcohol Diversity\Alcohol Diversity Study\AlcoholDiversity\Document fonts\ProximaNova.ttc
+TTCOffset:1584
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1603796
+FileModTime:1779297403
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Proxima Nova Medium
+NameArray:0,Win,1,Proxima Nova Medium
+NameArray:0,Win,16,Proxima Nova
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-MediumIt
+FamilyName:Proxima Nova
+StyleName:Medium Italic
+FullName:Proxima Nova Medium It
+MenuName:Proxima Nova Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\tempfix\Desktop\Alcohol Diversity\Alcohol Diversity Study\AlcoholDiversity\Document fonts\ProximaNova.ttc
+TTCOffset:1836
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1603796
+FileModTime:1779297403
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Proxima Nova Medium It
+NameArray:0,Win,1,Proxima Nova Medium
+NameArray:0,Win,16,Proxima Nova
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-Regular
+FamilyName:Proxima Nova
+StyleName:Regular
+FullName:Proxima Nova
+MenuName:Proxima Nova
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tempfix\Desktop\Alcohol Diversity\Alcohol Diversity Study\AlcoholDiversity\Document fonts\ProximaNova.ttc
+TTCOffset:72
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1603796
+FileModTime:1779297403
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Proxima Nova
+NameArray:0,Win,1,Proxima Nova
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-RegularIt
+FamilyName:Proxima Nova
+StyleName:Italic
+FullName:Proxima Nova It
+MenuName:Proxima Nova
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\tempfix\Desktop\Alcohol Diversity\Alcohol Diversity Study\AlcoholDiversity\Document fonts\ProximaNova.ttc
+TTCOffset:324
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1603796
+FileModTime:1779297403
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Proxima Nova It
+NameArray:0,Win,1,Proxima Nova
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-Semibold
+FamilyName:Proxima Nova
+StyleName:Semibold
+FullName:Proxima Nova Semibold
+MenuName:Proxima Nova Semibold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tempfix\Desktop\Alcohol Diversity\Alcohol Diversity Study\AlcoholDiversity\Document fonts\ProximaNova.ttc
+TTCOffset:2592
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1603796
+FileModTime:1779297403
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Proxima Nova Semibold
+NameArray:0,Win,1,Proxima Nova Semibold
+NameArray:0,Win,16,Proxima Nova
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-SemiboldIt
+FamilyName:Proxima Nova
+StyleName:Semibold Italic
+FullName:Proxima Nova Semibold It
+MenuName:Proxima Nova Semibold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\tempfix\Desktop\Alcohol Diversity\Alcohol Diversity Study\AlcoholDiversity\Document fonts\ProximaNova.ttc
+TTCOffset:2844
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1603796
+FileModTime:1779297403
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Proxima Nova Semibold It
+NameArray:0,Win,1,Proxima Nova Semibold
+NameArray:0,Win,16,Proxima Nova
+%EndFont
+
